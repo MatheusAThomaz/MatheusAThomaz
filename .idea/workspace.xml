@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/pessoal/tastelife" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../netty-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/aspect-log-interceptor" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/balance-management-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/configuration-server-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-cdn" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-load-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-metrics-producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-permissions" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-security" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-test/mobile-ibanking" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-toggles" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mib-tuf-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mobile-ibanking" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/nr-teste" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pagbank-generator/generator-pagbank/blateste" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pagbank-generator/generator-pagbank/teste" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pagbank-generator/generator-pagbank/teste-final" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pagbank-generator/generator-pagbank/teste-health" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pagseguro/maven-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/testes/mib-tuf-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/testes/mobile-ibanking" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/transaction-detail-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/transaction-detail-etl-kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/transaction-search-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/user-information" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/user-updates" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1831" />
+    <option name="y" value="269" />
+    <option name="width" value="1291" />
+    <option name="height" value="555" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
